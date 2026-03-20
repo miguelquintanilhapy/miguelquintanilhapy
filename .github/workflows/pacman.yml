@@ -1,4 +1,4 @@
-name: Generate Pacman Graph
+name: Generate Snake
 
 on:
   workflow_dispatch:
@@ -11,14 +11,17 @@ jobs:
       contents: write
 
     steps:
-      - name: Generate Pacman
-        uses: abozanona/pacman-contribution-graph@main
+      - name: Generate snake
+        uses: Platane/snk@v3
         with:
           github_user_name: miguelquintanilhapy
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push to output branch
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./
+          publish_dir: ./dist
           publish_branch: output
