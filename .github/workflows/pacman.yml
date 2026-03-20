@@ -11,17 +11,14 @@ jobs:
       contents: write
 
     steps:
-      - name: Generate snake
-        uses: Platane/snk@v3
+      - name: Generate Pacman
+        uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: miguelquintanilhapy
-          outputs: |
-            dist/pacman-contribution-graph.svg
-            dist/pacman-contribution-graph-dark.svg?palette=github-dark
+          username: miguelquintanilhapy
 
       - name: Push to output branch
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
+          publish_dir: ./
           publish_branch: output
