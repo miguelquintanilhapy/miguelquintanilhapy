@@ -6,13 +6,18 @@ Me chamo Miguel Quintanilha, tenho 17 anos e sou estudante do ensino médio téc
 
 <div align="center">
   <a href="mailto:miguelquintanilha61@gmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" height="35"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" height="35"
+         style="filter: invert(1); margin: 0 8px;" />
   </a>
+  
   <a href="https://instagram.com/quintanilha_miguell">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" height="35"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" height="35"
+         style="filter: invert(1); margin: 0 8px;" />
   </a>
+  
   <a href="https://www.linkedin.com/in/miguel-quintanilha-859131363/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="35"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="35"
+         style="filter: invert(1); margin: 0 8px;" />
   </a>
 </div>
 
