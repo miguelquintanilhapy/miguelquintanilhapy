@@ -1,9 +1,9 @@
 name: Generate Pac-Man
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 */12 * * *"
-  workflow_dispatch:
 
 permissions:
   contents: write
@@ -13,10 +13,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Pac-Man contribution graph
-        uses: abozanona/pacman-contribution-graph@main
+      - name: Generate Pac-Man graph
+        uses: abozanona/pacman-contribution-graph@v1
 
-      - name: Deploy to output branch
+      - name: Ensure dist exists
+        run: mkdir -p dist
+
+      - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
