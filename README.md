@@ -46,6 +46,7 @@ Me chamo Miguel Quintanilha, tenho 17 anos e sou estudante do ensino médio téc
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="39" />
 </div>
 
+<!-- PAC-MAN REAL -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miguelquintanilhapy/miguelquintanilhapy/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/miguelquintanilhapy/miguelquintanilhapy/output/pacman-contribution-graph.svg">
@@ -55,6 +56,5 @@ Me chamo Miguel Quintanilha, tenho 17 anos e sou estudante do ensino médio téc
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=miguelquintanilhapy&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&cache_seconds=1" height="150" />
   
-  <!-- 🔥 CORRIGIDO AQUI -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelquintanilhapy&layout=compact&langs_count=5&theme=dracula&cache_seconds=1" height="150" />
 </div>
