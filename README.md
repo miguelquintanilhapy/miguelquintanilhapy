@@ -1,7 +1,6 @@
 <h1 align="left">👨🏽‍💻 Miguel Quintanilha</h1>
 
 ###
-
 <h4 align="left">Me chamo Miguel Quintanilha, tenho 17 anos e sou estudante do ensino médio técnico em informática, além de atuar como estagiário de Desenvolvimento de Software. Atuo no desenvolvimento de sistemas internos, lidando com problemas práticos e responsabilidades além do ambiente acadêmico. Busco evolução contínua em qualidade de código, organização e desenvolvimento profissional.</h4>
 
 ###
