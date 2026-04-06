@@ -53,9 +53,8 @@
 </picture>
 
 ###
-
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=miguelquintanilhapy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelquintanilhapy&layout=compact&theme=dracula"/>
+  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=miguelquintanilhapy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=miguelquintanilhapy&layout=compact&theme=dracula"/>
 </div>
 ###  
