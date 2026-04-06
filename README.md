@@ -46,15 +46,15 @@
 
 ###
 
-<br clear="both">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miguelquintanilhapy/miguelquintanilhapy/output/github-contribution-grid-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/miguelquintanilhapy/miguelquintanilhapy/output/github-contribution-grid-snake.svg">
-</picture>
-
-###
-<div align="center">
-  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=miguelquintanilhapy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=miguelquintanilhapy&layout=compact&theme=dracula"/>
+<p align="center">
+  <img 
+  height="200" 
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=miguelquintanilhapy&show_icons=true&theme=dark&include_all_commits=true" 
+    />
+    <img 
+      height="195" 
+      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=miguelquintanilhapy&layout=compact&theme=dark&include_all_commits=true" 
+    />
+</p>
 </div>
-###  
+
