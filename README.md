@@ -5,19 +5,6 @@ Me chamo Miguel Quintanilha, tenho 18 anos e sou desenvolvedor fullstack.
 Atuo no desenvolvimento de sistemas internos, lidando com problemas práticos de arquitetura, banco de dados e integração entre frontend e backend. Busco evolução contínua em qualidade de código, organização e desenvolvimento profissional.
 </h4>
 
-<br>
-
-<div align="center">
-<a href="https://www.linkedin.com/in/miguel-quintanilha-859131363/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%23A020F0?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
-</a>
-<a href="mailto:miguelquintanilha61@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-%23A020F0?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
-</a>
-</div>
-
-<br>
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/>
   <img width="12"/>
