@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14584A,100:1F3A5F&height=170&section=header&text=Miguel%20Quintanilha&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Fullstack%20Developer&descAlignY=60&descSize=18" alt="Miguel Quintanilha, Fullstack Developer" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14584A,100:1F3A5F&height=170&section=header&text=Miguel%20Quintanilha&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Back-end%20Developer&descAlignY=60&descSize=18" alt="Miguel Quintanilha, Back-end Developer" width="100%">
 
 **Internal systems · Software architecture · Databases**
 
