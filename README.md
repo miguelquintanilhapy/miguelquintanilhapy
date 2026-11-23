@@ -67,12 +67,15 @@ Desktop system for quotes and project management, with a financial dashboard and
 
 `C#` `.NET` `WPF` `MVVM` `MySQL`
 
-### [Climate Monitoring](https://github.com/miguelquintanilhapy/Climate-Monitoring)
-Real-time weather monitoring web app. Built at the **1st Univap Informática Hackathon 2025**.
+### [Bolso](https://github.com/miguelquintanilhapy/bolso)
+Personal finance PWA. Log an expense in one line of text (`50 mercado`) and the home screen shows what's left for the month. Runs entirely on free tiers, no ads, no AI.
 
-- User registration, saved cities, and weather alerts by location
+- **Quick field** parses value, category, account, date, installments, and tags from free text, and learns new words over time
+- Per-category monthly budgets with usage bars and pace alerts (*"60% of the budget used with 30% of the month gone"*)
+- Credit card bills with closing/due dates, future installments, and one-tap bill payment
+- Row-level security on Supabase/Postgres: each user sees only their own data
 
-`TypeScript` `React` `Node.js` `Express` `MongoDB`
+`React` `TypeScript` `Supabase` `Vercel`
 
 ---
 
